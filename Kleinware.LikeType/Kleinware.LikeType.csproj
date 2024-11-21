@@ -10,7 +10,7 @@
     <Description>Provides 'typedef' like behavior to simple C# classes.</Description>
     <Copyright>Copyright 2024</Copyright>
     <PackageTags>typedef implicit operator immutable</PackageTags>
-    <PackageProjectUrl>https://github.com/dsmithson/LikeType</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/mattklein999/LikeType</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
